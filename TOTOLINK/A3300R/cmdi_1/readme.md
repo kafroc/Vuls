@@ -1,10 +1,10 @@
 # TOTOlink A3300R V17.0.0cu.557_B20221024 Unauthenticated RCE
 
 ## Product Information
-Device: TOTOlink A3300R
-Firmware Version: V17.0.0cu.557_B20221024
-Manufacturer's website information：https://www.totolink.net/
-Firmware download address ：https://www.totolink.net/home/menu/detail/menu_listtpl/download/id/241/ids/36.html
+Device: TOTOlink A3300R<br>
+Firmware Version: V17.0.0cu.557_B20221024<br>
+Manufacturer's website information：https://www.totolink.net/<br>
+Firmware download address ：https://www.totolink.net/home/menu/detail/menu_listtpl/download/id/241/ids/36.html<br>
 
 ## Vulnerability Description
 The device does not require authentication for the setLanguageCfg request, which is vulnerable to OS command injection.
